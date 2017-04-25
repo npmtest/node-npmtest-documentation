@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [documentation (v3.0.4)](https://github.com/documentationjs/documentation#readme) [![npm package](https://img.shields.io/npm/v/npmtest-documentation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-documentation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-documentation.svg)](https://travis-ci.org/npmtest/node-npmtest-documentation)",
+    "description": "#### basic test coverage for  [documentation (v3.0.4)](https://github.com/documentationjs/documentation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-documentation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-documentation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-documentation.svg)](https://travis-ci.org/npmtest/node-npmtest-documentation)",
     "devDependencies": {
         "documentation": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
